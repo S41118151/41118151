@@ -1,0 +1,16 @@
+/* 整頁背景設為粉黃色 */
+body {
+    background-color: pink;
+}
+
+/* 詩的標題設為紅色、36點字 */
+.poem-title {
+    color: red;
+    font-size: 36px;
+}
+
+/* 詩的內容設為棕色、18點字 */
+.poem-content {
+    color: brown;
+    font-size: 18px;
+}
